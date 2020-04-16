@@ -6,9 +6,10 @@ authors:
 - Clay Routledge
 date: "2010-10-23T00:00:00Z"
 doi: "10.1007/s11031-010-9193-6"
+profile: false
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2010-10-23T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

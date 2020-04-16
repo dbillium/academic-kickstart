@@ -3,12 +3,12 @@ title: "Motivating exercise through social media: Is a picture always worth a th
 authors:
 - Caitlyn Johnston
 - admin
-date: ""
+date: "2018-12-23T00:00:00Z"
 doi: "10.1016/j.psychsport.2018.12.012"
 profile: false
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-12-23T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

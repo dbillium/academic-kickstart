@@ -1,11 +1,18 @@
 ---
 title: "Attitudes and Motivations of Owners Who Enroll Pets in Pet Life-Care Centers"
-authors: [admin, hicks, "Christine Foster", "Meredith Holub", "Rosina Krecek", "Audra Richburg"]
+authors: 
+- admin
+- Joshua Hicks
+- Christine Foster
+- Meredith Holub
+- Rosina Krecek
+- Audra Richburg
 date: "2018-03-08T00:00:00Z"
 doi: "10.1080/08927936.2018.1434061"
+profile: false
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-03-08T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

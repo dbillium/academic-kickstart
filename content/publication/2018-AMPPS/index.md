@@ -4,6 +4,7 @@ authors:
 - admin
 date: ""
 doi: ""
+profile: false
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-12-23T00:00:00Z"

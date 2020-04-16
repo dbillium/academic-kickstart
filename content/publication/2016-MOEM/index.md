@@ -2,10 +2,10 @@
 title: "Motivating the academic mind: High-level construal of academic goals enhances goal meaningfulness, motivation, and self-concordance"
 authors:
 - admin
-- kelley
+- Nicholas Kelley
 - Jinhyung Kim
 - David Tang
-- hicks
+- Joshua Hicks
 date: "2015-12-10T00:00:00Z"
 doi: "10.1007/s11031-015-9522-x"
 profile: false
