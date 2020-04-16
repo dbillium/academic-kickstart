@@ -18,6 +18,6 @@ organizations:
   url: "https://liberalarts.tamu.edu/psychology/profile/rebecca-schlegel/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: The primary goal of my research is to examine the pervasive influence of self and identity on psychological functioning.
 
 ---
