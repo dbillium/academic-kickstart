@@ -20,7 +20,7 @@ publication_types: ["2"]
 publication: "*Motivation and Emotion*"
 publication_short: ""
 
-abstract: Humans have a tendency to endorse teleological beliefs about the world. According to terror management theory, teleological or purposeful beliefs about the world help people cope with the awareness of mortality. Though research is generally consistent with this assertion, it has not been directly tested. Three studies tested and supported the notion that teleological beliefs about the world serve a terror management function. In “Study 1”, experimentally elevated teleological beliefs reduced death-thought accessibility. In “Studies 2 and 3”, mortality salience increased teleological beliefs, even if this resulted in judgment errors. Alternative explanations were tested and did not account for the findings.
+abstract: Humans have a tendency to endorse teleological beliefs about the world. According to terror management theory, teleological or purposeful beliefs about the world help people cope with the awareness of mortality. Though research is generally consistent with this assertion, it has not been directly tested. Three studies tested and supported the notion that teleological beliefs about the world serve a terror management function. In Study 1, experimentally elevated teleological beliefs reduced death-thought accessibility. In Studies 2 and 3, mortality salience increased teleological beliefs, even if this resulted in judgment errors. Alternative explanations were tested and did not account for the findings.
 
 
 
