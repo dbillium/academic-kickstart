@@ -19,7 +19,7 @@ publishDate: "2018-12-23T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*journalname*"
+publication: "*Journal of Research in Personality*"
 publication_short: ""
 
 abstract: Research on subjective authenticity identifies several psychological antecedents that seem naturally tied to subjectively authentic experiences. Four studies (N = 525) tested the hypothesis that promotion focus (compared to prevention focus) represents another shared antecedent of subjective authenticity. Studies 1 and 2 examined correlations between regulatory focus and subjective authenticity in the context of goal-pursuit and interpersonal interactions. Studies 3 and 4 were within-subjects experiments designed to manipulate regulatory focus and examine the effects of promotion and prevention focus on subjective authenticity. Across all studies, we found that promotion focus (relative to prevention focus) was a robust predictor of subjective authenticity. Implications and future directions are discussed.
