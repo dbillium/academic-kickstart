@@ -1,9 +1,12 @@
 ---
-title: ""
+title: "Heavy drinking, impulsivity and attentional narrowing following alcohol cue exposure"
 authors:
+- Joshua Hicks
+- Sherecce Fields
 - admin
-date: "2018-12-23T00:00:00Z"
-doi: ""
+- Philip Gable
+date: "2015-03-21T00:00:00Z"
+doi: "10.1007/s00213-015-3912-3"
 profile: false
 
 # Schedule page publish date (NOT publication's date).
@@ -16,10 +19,10 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*journalname*"
+publication: "*Psychopharmacology*"
 publication_short: ""
 
-abstract: 
+abstract: "Research shows that alcohol-related stimuli have the propensity to capture attention among individuals motivated to consume alcohol. Research has further demonstrated that impulsive individuals are especially prone to this type of attentional bias. Recently, it is suggested that alcohol cue exposure can also produce a general narrowing of attention consistent with the activation of approach motivational states. Based on previous models of addiction and recent research on the activation of approach motivational states, we predicted that impulsive individuals would demonstrate a constriction of attentional focus in response to alcohol cue exposure. Participants (n = 392) completed a task assessing attentional breadth in response to alcohol and non-alcohol cues, followed by measures of alcohol use and impulsivity. The findings revealed that impulsivity scores predicted narrowing of attentional scope following the presentation of alcohol cues for heavier drinkers but not for light drinkers. These results suggest that impulsive individuals who drink more heavily demonstrate a narrowing of attention in the presence of alcohol-related incentive cues. Implications for how these findings might account for the link between impulsivity and alcohol use and misuse are discussed."
 
 
 
@@ -45,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/XXXXXXXXXXXXXXXXXXXXlinkgoeshereXXXXXXXXXXXXXXXX)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/rS2OpgFbeMk)'
   focal_point: ""
   preview_only: false
 
