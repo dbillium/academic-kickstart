@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Academic Appointments"
 subtitle = ""
 
 # Date format for experience
@@ -25,4 +25,12 @@ date_format = "Jan 2006"
   date_start = "2018"
   date_end = ""
   description = """Courses Taught: Introduction to Psychology, Personality Psychology, Senior Research Seminar, Psychology of Happiness"""
+[[experience]]
+  title = "Visiting Lecturer"
+  company = "Mount Holyoke College"
+  company_url = "https://www.mtholyoke.edu/"
+  location = "South Hadley, MA"
+  date_start = "2015"
+  date_end = "2018"
+  description = """Courses Taught: Personality Psychology, Lab in Personality Reseearch, Positive Psychology"""
 +++
