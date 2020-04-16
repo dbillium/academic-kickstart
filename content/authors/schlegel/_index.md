@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Joshua A. Hicks
+name: Rebecca J. Schlegel
 
 # Username (this should match the folder name)
 authors:
-- hicks
+- schlegel
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,9 +15,9 @@ role: Associate Professor of Psychology
 # Organizations/Affiliations
 organizations:
 - name: Texas A&M University
-  url: "https://liberalarts.tamu.edu/psychology/profile/joshua-hicks/"
+  url: "https://liberalarts.tamu.edu/psychology/profile/rebecca-schlegel/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research aims to understand how people answer the “big” questions in life and how people’s answers to those questions influence their attitudes and behavior.
+bio: 
 
 ---
