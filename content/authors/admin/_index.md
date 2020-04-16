@@ -73,4 +73,4 @@ email: ""
 #- Visitors
 ---
 
-Billy Davis is an assistant professor of psychology at Wittenberg University. His research interests include authenticity, meaning in life, and improving psychological science.
+I am an Assistant Professor of Psychology at Wittenberg University. My research interests include authenticity, meaning in life, and improving psychological science.
