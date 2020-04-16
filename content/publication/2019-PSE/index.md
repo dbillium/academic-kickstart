@@ -7,7 +7,7 @@ date: ""
 doi: "https://doi.org/10.1016/j.psychsport.2018.12.012"
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2018-12-23T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,7 +24,7 @@ abstract: In the present study, we examined how the influence of exercise-relate
 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: What kinds of social media posts most effectively promote actual exercise motivation? This published paper reports the results of Caitlyn Johnston's senior thesis project that compared indivdiual and corporate social media posts, and posts with and without images, to answer that question.
 
 tags:
 - Source Themes
@@ -33,11 +33,11 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://psyarxiv.com/yw452/download?format=pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: https://osf.io/7e6k3/
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -45,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/lrQPTQs7nQQ)'
   focal_point: ""
   preview_only: false
 
