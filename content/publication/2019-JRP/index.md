@@ -6,7 +6,7 @@ authors:
 - admin
 - Joshua Hicks
 - Rebecca Schlegel
-date: ""
+date: "2018-12-23T00:00:00Z"
 doi: "10.1016/j.jrp.2018.12.001"
 
 # Schedule page publish date (NOT publication's date).
