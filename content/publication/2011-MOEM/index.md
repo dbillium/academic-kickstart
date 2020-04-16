@@ -29,7 +29,7 @@ abstract: Humans have a tendency to endorse teleological beliefs about the world
 summary: Can simply believing that things have a purpose help protect us from the anxiety that arises from the awareness of our own mortality?
 
 tags:
-- Source Themes
+- 
 featured: false
 
 # links:
