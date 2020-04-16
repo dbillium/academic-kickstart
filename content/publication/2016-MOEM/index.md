@@ -1,12 +1,16 @@
 ---
-title: ""
+title: "Motivating the academic mind: High-level construal of academic goals enhances goal meaningfulness, motivation, and self-concordance"
 authors:
 - admin
-date: ""
-doi: ""
+- kelley
+- Jinhyung Kim
+- David Tang
+- hicks
+date: "2015-12-10T00:00:00Z"
+doi: "10.1007/s11031-015-9522-x"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-12-23T00:00:00Z"
+publishDate: "2015-12-10T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,10 +19,10 @@ publishDate: "2018-12-23T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*journalname*"
+publication: "*Motivation and Emotion*"
 publication_short: ""
 
-abstract: 
+abstract: How one thinks about or conceptualizes a goal has important consequences for the motivational features of goal pursuit. Two experiments tested the hypothesis, inspired by work on meaning in life, action identification theory, and expectancy-value theory, that high-level construal of an academic goal should enhance motivation to pursue that goal. In each experiment, we manipulated high-level versus low-level construal of an academic goal and assessed several variables related to the goal: the perceived meaningfulness of the goal, motivation to pursue the goal, and goal self-concordance. Supporting the hypothesis, individuals who thought about their academic goal in a high-level manner viewed their goal as more meaningful, reported being more motivated to pursue the goal, and reported the goal to be more self-concordant. Implications and future directions are discussed.
 
 
 
