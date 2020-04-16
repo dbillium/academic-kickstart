@@ -1,10 +1,10 @@
 ---
-title: "Motivating exercise through social media: Is a picture always worth a thousand words?"
+title: "An example journal article"
 authors:
-- Caitlyn Johnston
 - admin
-date: ""
-doi: "https://doi.org/10.1016/j.psychsport.2018.12.012"
+- Robert Ford
+date: "2015-09-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -16,26 +16,10 @@ doi: "https://doi.org/10.1016/j.psychsport.2018.12.012"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Psychology of Sport and Exercise, 41*"
-publication_short: "PSE"
+publication: "*Journal of Source Themes, 1*(1)"
+publication_short: ""
 
-abstract: 
-Objectives
-In the present study, we examined how the influence of exercise-related social media content on exercise motivation might differ across content type (with images vs. without images) and account type (individual vs. corporate).
-
-Design
-Using a 2 × 2 within-subjects experimental design, 229 participants viewed a series of 40 actual social media posts across the four conditions (individual posts with images, corporate posts with images, individual posts without images, and corporate posts without images) in a randomized order.
-
-Method
-Participants rated the extent to which they felt each social media post motivated them to exercise, would motivate others to exercise, and was posted for extrinsic reasons. Participants also completed other measures of individual differences including their own exercise motivation.
-
-Results
-Posts with images from individuals were more motivating than posts with images from corporations; however, corporate posts without images were more motivating than posts without images from individuals. Participants expected others to be similarly motivated by the stimuli, and perceived corporate posts as having been posted for more extrinsic reasons than individuals’ posts.
-
-Conclusions
-These findings enhance our understanding of how social media may be used to promote positive health behaviors.
-
-
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
