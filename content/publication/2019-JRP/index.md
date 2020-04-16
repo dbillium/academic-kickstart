@@ -7,10 +7,10 @@ authors:
 - Joshua Hicks
 - Rebecca Schlegel
 date: ""
-doi: "https://doi.org/10.1016/j.jrp.2018.12.001"
+doi: "10.1016/j.jrp.2018.12.001"
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2018-12-23T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +19,13 @@ doi: "https://doi.org/10.1016/j.jrp.2018.12.001"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*journalname*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Research on subjective authenticity identifies several psychological antecedents that seem naturally tied to subjectively authentic experiences. Four studies (N = 525) tested the hypothesis that promotion focus (compared to prevention focus) represents another shared antecedent of subjective authenticity. Studies 1 and 2 examined correlations between regulatory focus and subjective authenticity in the context of goal-pursuit and interpersonal interactions. Studies 3 and 4 were within-subjects experiments designed to manipulate regulatory focus and examine the effects of promotion and prevention focus on subjective authenticity. Across all studies, we found that promotion focus (relative to prevention focus) was a robust predictor of subjective authenticity. Implications and future directions are discussed.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Promotion focus (PF) positively predicts authenticity in a variety of contexts. Goal PF predicts goal authenticity regardless of match between trait and goal PF. Trait PF predicts authenticity with approach orientation controlled for. Experimentally induced PF leads people to feel more authentic in the moment. Autonomy and competence underlie the link between PF and authenticity.
 
 tags:
 - Source Themes
@@ -34,11 +34,11 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://osf.io/jtafx/'
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -46,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/UcI5OAPD820)'
   focal_point: ""
   preview_only: false
 
@@ -57,20 +57,4 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-#	slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
