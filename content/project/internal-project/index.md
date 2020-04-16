@@ -11,7 +11,7 @@ external_link: ""
 #external_link: https://osf.io/fc8ur/
 
 image:
-  caption: Image credit: [**Unsplash**](https://unsplash.com/photos/-qWI3MJxRX0)
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/-qWI3MJxRX0)"
   focal_point: Smart
 
 links:
