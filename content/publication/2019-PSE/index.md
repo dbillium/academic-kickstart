@@ -5,6 +5,7 @@ authors:
 - admin
 date: ""
 doi: "10.1016/j.psychsport.2018.12.012"
+profile: false
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2018-12-23T00:00:00Z"
