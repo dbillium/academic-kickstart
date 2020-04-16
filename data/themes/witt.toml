@@ -1,5 +1,5 @@
 # Theme metadata
-name = "Minimal"
+name = "Witt"
 
 # Is theme light or dark?
 light = true
@@ -9,8 +9,8 @@ primary = "#c2002f"
 
 # Menu
 menu_primary = "#fff"
-menu_text = "#34495e"
-menu_text_active = "#2962ff"
+menu_text = "#4d0012"
+menu_text_active = "#c2002f"
 menu_title = "#2b2b2b"
 
 # Home sections
