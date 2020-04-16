@@ -29,7 +29,7 @@ summary: What kinds of social media posts most effectively promote actual exerci
 
 tags:
 - 
-featured: false
+featured: true
 
 # links:
 # - name: ""
