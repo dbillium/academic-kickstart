@@ -31,7 +31,7 @@ abstract: "The purpose of this study was to examine the characteristics, motivat
 summary: 
 
 tags:
-- Source Themes
+- 
 featured: false
 
 # links:

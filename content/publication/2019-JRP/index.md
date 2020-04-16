@@ -28,7 +28,7 @@ abstract: Research on subjective authenticity identifies several psychological a
 summary: Promotion focus (PF) positively predicts authenticity in a variety of contexts. Goal PF predicts goal authenticity regardless of match between trait and goal PF. Trait PF predicts authenticity with approach orientation controlled for. Experimentally induced PF leads people to feel more authentic in the moment. Autonomy and competence underlie the link between PF and authenticity.
 
 tags:
-- Source Themes
+- 
 featured: false
 
 # links:

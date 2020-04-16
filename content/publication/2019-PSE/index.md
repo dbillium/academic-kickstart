@@ -27,7 +27,7 @@ abstract: In the present study, we examined how the influence of exercise-relate
 summary: What kinds of social media posts most effectively promote actual exercise motivation? This published paper reports the results of Caitlyn Johnston's senior thesis project that answered that question by comparing indivdiual and corporate social media posts, and posts with and without images.
 
 tags:
-- Source Themes
+- 
 featured: false
 
 # links:

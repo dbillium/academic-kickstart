@@ -30,7 +30,7 @@ abstract: "Multidimensional models of perfectionism predict important outcomes f
 summary: 381 participants evaluated profiles of potential relationship partners. Perfectionists were rated as less likeable, warm, and competent. Participants' own perfectionism predicted interest in perfectionistic profiles. Results varied across type of perfectionism being evaluated.
 
 tags:
-- Source Themes
+- 
 featured: false
 
 # links:
