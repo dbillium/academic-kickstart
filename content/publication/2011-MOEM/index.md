@@ -1,12 +1,14 @@
 ---
-title: ""
+title: "Death and design: The terror management function of teleological beliefs"
 authors:
 - admin
-date: ""
-doi: ""
+- Jacob Juhl
+- Clay Routledge
+date: "2010-10-23T00:00:00Z"
+doi: "10.1007/s11031-010-9193-6"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018-12-23T00:00:00Z"
+publishDate: "2010-10-23T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,15 +17,15 @@ publishDate: "2018-12-23T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*journalname*"
+publication: "*Motivation and Emotion*"
 publication_short: ""
 
-abstract: 
+abstract: Humans have a tendency to endorse teleological beliefs about the world. According to terror management theory, teleological or purposeful beliefs about the world help people cope with the awareness of mortality. Though research is generally consistent with this assertion, it has not been directly tested. Three studies tested and supported the notion that teleological beliefs about the world serve a terror management function. In “Study 1”, experimentally elevated teleological beliefs reduced death-thought accessibility. In “Studies 2 and 3”, mortality salience increased teleological beliefs, even if this resulted in judgment errors. Alternative explanations were tested and did not account for the findings.
 
 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: Can simply believing that things have a purpose help protect us from the anxiety that arises from the awareness of our own mortality?
 
 tags:
 - Source Themes
