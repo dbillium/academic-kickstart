@@ -22,7 +22,7 @@ publication_types: ["2"]
 publication: "*Motivation and Emotion*"
 publication_short: ""
 
-abstract: How one thinks about or conceptualizes a goal has important consequences for the motivational features of goal pursuit. Two experiments tested the hypothesis, inspired by work on meaning in life, action identification theory, and expectancy-value theory, that high-level construal of an academic goal should enhance motivation to pursue that goal. In each experiment, we manipulated high-level versus low-level construal of an academic goal and assessed several variables related to the goal: the perceived meaningfulness of the goal, motivation to pursue the goal, and goal self-concordance. Supporting the hypothesis, individuals who thought about their academic goal in a high-level manner viewed their goal as more meaningful, reported being more motivated to pursue the goal, and reported the goal to be more self-concordant. Implications and future directions are discussed.
+abstract: "How one thinks about or conceptualizes a goal has important consequences for the motivational features of goal pursuit. Two experiments tested the hypothesis, inspired by work on meaning in life, action identification theory, and expectancy-value theory, that high-level construal of an academic goal should enhance motivation to pursue that goal. In each experiment, we manipulated high-level versus low-level construal of an academic goal and assessed several variables related to the goal: the perceived meaningfulness of the goal, motivation to pursue the goal, and goal self-concordance. Supporting the hypothesis, individuals who thought about their academic goal in a high-level manner viewed their goal as more meaningful, reported being more motivated to pursue the goal, and reported the goal to be more self-concordant. Implications and future directions are discussed."
 
 
 
@@ -48,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/XXXXXXXXXXXXXXXXXXXXlinkgoeshereXXXXXXXXXXXXXXXX)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/zFSo6bnZJTw)'
   focal_point: ""
   preview_only: false
 
