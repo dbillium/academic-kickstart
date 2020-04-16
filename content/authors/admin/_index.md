@@ -20,11 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include authenticity, meaning in life, and improving psychological science.
 
-interests:
-- Authenticity
-- Meaning in Life
-- Improving Psychological Science
-
 education:
   courses:
   - course: PhD in Social and Personality Psychology
