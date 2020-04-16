@@ -4,8 +4,8 @@ authors:
 - Jinhyung Kim
 - Kaiyuan Chen
 - admin
-- hicks
-- schlegel
+- Joshua Hicks
+- Rebecca Schlegel
 date: "2018-12-23T00:00:00Z"
 doi: "10.1016/j.jrp.2018.12.001"
 profile: false
