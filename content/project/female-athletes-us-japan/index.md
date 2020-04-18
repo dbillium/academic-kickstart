@@ -1,6 +1,6 @@
 ---
 title: Athlete Motivation in the US and Japan
-summary: "What motivates female collegiate athletes in these countries?"
+summary: "Do female collegiate athletes have different reasons for competing in these countries?"
 tags:
 - OSF
 date: "2020-04-16T00:00:00Z"
@@ -26,7 +26,7 @@ url_video: ""
 
 ---
 <h1>Project Overview</h1>
-College athletics in the U.S. have been governed and regulated by the National Collegiate Athletic Association (NCAA) for decades, and Title IX has legislated equity between male and female athletes since 1972. In contrast, college athletics in Japan are privately organized and without mandates similar to Title IX. The Japan Association for University Athletics and Sports (UNIVAS) is set to be implemented in 2019 as a “Japanese NCAA” to promote and set standards for collegiate athletics in Japan. 
+College athletics in the U.S. have been governed and regulated by the National Collegiate Athletic Association (NCAA) for decades, and Title IX has legislated equity between male and female athletes since 1972. In contrast, college athletics in Japan are privately organized and without mandates similar to Title IX. The Japan Association for University Athletics and Sports (UNIVAS) was implemented in 2019 as a “Japanese NCAA” to promote and set standards for collegiate athletics in Japan. 
 
 Ensuring the well-being of student-athletes is identified by the NCAA as the single most important task for athletic departments. The present study aimed to examine this aspect of the female student-athlete experience to identify potentially important differences between the U.S. and Japan in the predictors of student-athlete well-being.
 
