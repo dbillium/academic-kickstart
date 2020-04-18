@@ -73,4 +73,4 @@ email: ""
 #- Visitors
 ---
 
-I am an Assistant Professor of Psychology at Wittenberg University. My research interests include authenticity, meaning in life, and improving psychological science.
+I am a social and personality psychologist who studies things like authenticity and meaning in life. My work also focuses on efforts to improve psychological science. One of my favorite things about teaching at Wittenberg is that I am able to offer robust research experiences and individualized mentorship to undergraduate students interested in studying psychology.
